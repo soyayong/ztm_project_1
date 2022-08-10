@@ -36,17 +36,8 @@
       </div>
     </div>
 
-    <!-- <div id="section-1" class="text-center bg-[url('/three-burgers.jpg')] pb-60 bg-cover">
-      <h1 class="text-6xl uppercase font-oswald pt-20 px-24">
-        The burger tastes better when you eat it with family
-      </h1>
-      <p class="font-roboto font-light text-gray-500 text-lg py-6 px-28">
-        Spend quality time with your family and eat an affordable, nutritious and delicious meal together.
-        Not all burgers are fast foods. All our burgers are handmade to order for your family members to enjoy.
-      </p>
-      <button class="font-oswald uppercase bg-red-500 text-white py-3 px-8">
-        Explore Full Menu
-      </button>
-    </div> -->
+    <div id="section-1" class="text-center pb-60 bg-cover">
+      <AboutMe />
+    </div>
   </div>
 </template>
