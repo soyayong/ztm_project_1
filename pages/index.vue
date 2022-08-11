@@ -58,11 +58,15 @@
               0-1H1V2.5A1.5 1.5 0 0 1 2.5 1h4.691l.362-.724A.5.5 0 0 1 8 0ZM2 11h12V2.5a.5.5 0 0 0-.5-.5h-11a.5.5 0 0 0-.5.5V11Zm9.61 1H4.39l-.25 1h7.72l-.25-1Z"
             />
           </svg>
-          <p class="font-medium font-oswald text-2xl uppercase my-5">LEAD Stories</p>
-          <a href="https://thelead.io/stories/zong-wei/">Read Me</a>
-          <p class="font-light font-roboto px-5">
+          <p class="font-medium font-oswald text-2xl uppercase my-5 text-white">LEAD Stories</p>
+          <p class="font-light font-roboto px-5 pb-5 text-white">
             How Zong Wei Became a Data Scientist In a Year (With No Tech Background)
           </p>
+          <a
+            class="font-oswald uppercase bg-blue-500 hover:bg-blue-700 text-white py-2 px-8 rounded"
+            href="https://thelead.io/stories/zong-wei/"
+          >Read Me
+          </a>
         </div>
         <div>
           <svg
@@ -83,12 +87,16 @@
               1.634v3.865h2.401V9.25c0-2.22-1.184-3.252-2.764-3.252-1.274 0-1.845.7-2.165 1.193v.025h-.016a5.54 5.54 0 0 1 .016-.025V6.169h-2.4c.03.678 0 7.225 0 7.225h2.4z"
             />
           </svg>
-          <p class="font-medium font-oswald text-2xl uppercase my-5">Linkedin</p>
-          <a href="https://www.linkedin.com/in/yongzongwei-930410/">Connect Me</a>
-          <p class="font-light font-roboto px-5">
+          <p class="font-medium font-oswald text-2xl uppercase my-5 text-white">Linkedin</p>
+          <p class="font-light font-roboto px-5 pb-5 text-white">
             We can communicate to know each other and read my latest post
             such as python exercise or video course
           </p>
+          <a
+            class="font-oswald uppercase bg-blue-500 hover:bg-blue-700 text-white py-2 px-8 rounded"
+            href="https://www.linkedin.com/in/yongzongwei-930410/"
+          >Connect Me
+          </a>
         </div>
         <div>
           <svg
@@ -110,12 +118,16 @@
               3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.012 8.012 0 0 0 16 8c0-4.42-3.58-8-8-8z"
             />
           </svg>
-          <p class="font-medium font-oswald text-2xl uppercase my-5">GitHub</p>
-          <a href="https://github.com/soyayong">Follow Me</a>
-          <p class="font-light font-roboto px-5">
+          <p class="font-medium font-oswald text-2xl uppercase my-5 text-white">GitHub</p>
+          <p class="font-light font-roboto px-5 pb-5 text-white">
             Try to explore Github repositories, maybe some projects can apply
             and remember to fork or star it
           </p>
+          <a
+            class="font-oswald uppercase bg-blue-500 hover:bg-blue-700 text-white py-2 px-8 rounded"
+            href="https://github.com/soyayong"
+          >Follow Me
+          </a>
         </div>
       </div>
     </div>
