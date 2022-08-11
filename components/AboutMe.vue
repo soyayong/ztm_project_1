@@ -23,11 +23,16 @@
                 Besides that, a data analyst skill set applies and uses BI tools like Qlik Sense and Power BI for visualization in the
                 Shimano company from 2017 until 2021 August. In 2021 August a data science career path under MC Crenergy company as a contract base.
                 While 2022 joined my current company as BI developer.
-                I'm quite good in those skills like LabVIEW, SQL(query, indexes, performance tuning, and dynamic SQL), Master Data Management,
-                BI Tools(Qlik Sense started in 2018, PowerBI started in 2019, and Tableau started in 2021), Python, ETL tools, and basic javascript.
             </p>
             <p class="font-roboto font-light text-gray-500 text-lg py-6 px-10">
-                Self-education starting from 2018 to improve developer skills such as SQL Server, Data Science,
+                Based on those experiences that I pass through, I can say that I'm quite good in those skills like LabVIEW,
+                SQL(query, indexes, performance tuning, and dynamic SQL), Master Data Management,
+                BI Tools(Qlik Sense started in 2018, PowerBI started in 2019, and Tableau started in 2021),
+                Python, ETL tools, and basic javascript.
+            </p>
+            <p class="font-roboto font-light text-gray-500 text-lg py-6 px-10">
+                Apart from that, I found that self-education is most important to growing my knowledge.
+                So starting from 2018 to improve developer skills such as SQL Server, Data Science,
                 Web Development (Javascript and ReactJS), and BI tools.
                 My future career plan is to become a full stack in data science.
             </p>
