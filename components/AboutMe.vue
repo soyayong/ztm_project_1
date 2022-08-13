@@ -1,11 +1,5 @@
 <template>
     <div class="grid grid-cols-3 pb-5 pt-5">
-        <div>
-            <img src="FullBody.png" class="px-2 mt-5 mx-20 object-center" alt="" width="400" height="400" />
-            <a class="font-oswald uppercase bg-blue-500 hover:bg-blue-700 text-white py-3 px-8 rounded" href="mailto:soyayong@gmail.com">
-                    Hire Me
-            </a>
-        </div>
         <div class="col-span-2 mx-5">
             <h1 class="text-6xl uppercase font-oswald pt-20 px-24">
                 About Me
@@ -46,6 +40,12 @@
                 teamwork, responsibility, problem-solving, communication, leadership,
                 able to work under pressure, and well time management in my life or working area.
             </p>
+        </div>
+        <div>
+            <img src="FullBody.png" class="px-2 mt-5 mx-20 object-center" alt="" width="400" height="400" />
+            <a class="font-oswald uppercase bg-blue-500 hover:bg-blue-700 text-white py-3 px-8 rounded" href="mailto:soyayong@gmail.com">
+                    Hire Me
+            </a>
         </div>
     </div>
 </template>
