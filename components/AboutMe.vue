@@ -42,7 +42,7 @@
             </p>
         </div>
         <div>
-            <img src="FullBody.png" class="px-2 mt-5 mx-20 object-center" alt="" width="400" height="400" />
+            <img src="FullBody.png" class="px-2 mt-5 object-center" alt="" width="400" height="400" />
             <a class="font-oswald uppercase bg-blue-500 hover:bg-blue-700 text-white py-3 px-8 rounded" href="mailto:soyayong@gmail.com">
                     Hire Me
             </a>
